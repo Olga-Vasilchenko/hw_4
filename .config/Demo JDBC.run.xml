@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Demo JDBC" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="org.example.task.Program" />
+    <module name="java_junior_hw4" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
